@@ -1,0 +1,14 @@
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\bin\Debug\netcoreapp2.0\wwwroot\swagger-ui\custom.css
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\bin\Debug\netcoreapp2.0\ApiForBlog.xml
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\bin\Debug\netcoreapp2.0\ApiForBlog.deps.json
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\bin\Debug\netcoreapp2.0\ApiForBlog.runtimeconfig.json
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\bin\Debug\netcoreapp2.0\ApiForBlog.runtimeconfig.dev.json
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\bin\Debug\netcoreapp2.0\ApiForBlog.dll
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\bin\Debug\netcoreapp2.0\ApiForBlog.pdb
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\obj\Debug\netcoreapp2.0\ApiForBlog.csproj.CoreCompileInputs.cache
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\obj\Debug\netcoreapp2.0\ApiForBlog.AssemblyInfoInputs.cache
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\obj\Debug\netcoreapp2.0\ApiForBlog.AssemblyInfo.cs
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\obj\Debug\netcoreapp2.0\ApiForBlog.dll
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\obj\Debug\netcoreapp2.0\ApiForBlog.pdb
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\obj\Debug\netcoreapp2.0\ApiForBlog.csprojResolveAssemblyReference.cache
+G:\11-ARTIGOS_BLOG\EFInMemory\src\ApiForBlog\ApiForBlog\bin\Debug\netcoreapp2.0\wwwroot\swagger-ui\custom.js

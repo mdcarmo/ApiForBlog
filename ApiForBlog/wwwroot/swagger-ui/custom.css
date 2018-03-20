@@ -1,0 +1,32 @@
+﻿body {
+    line-height: 1;
+    background-color: #E5E1DA;
+}
+#header {
+    background: #5F3554 !important;
+}
+
+#select_document {
+    background: #666 !important;
+}
+
+input[name=baseUrl] {
+    display: none !important;
+}
+
+.logo__title {
+    /*display: none !important;*/
+    color: #EDE2D6;
+}
+
+#api_info a {
+    color: #007bff !important;
+    text-decoration: none !important;
+}
+
+    #api_info a:hover,
+    #api_info a:focus,
+    #api_info a:active {
+        color: #0056b3 !important;
+        text-decoration: underline !important;
+    }
